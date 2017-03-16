@@ -2,13 +2,13 @@ Useful Commands
 ===============
 
 
-# NPM commands
+## NPM commands
 
 ` npm list -g --depth=0 ` - show list of npm packages installed globally.
 
-# Linux (Debian) commands
+## Linux (Debian) commands
 
 
 
-# Git Commands
+## Git Commands
 
