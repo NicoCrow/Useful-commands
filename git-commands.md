@@ -127,3 +127,8 @@ Git Commands
 
 ` git revert -n <sha> ` - Revert a commit
 
+
+
+
+
+<img src="./images/git.png">
