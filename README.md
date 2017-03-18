@@ -35,4 +35,6 @@ Useful Commands
 
 ## Git Commands
 
+[Watch git commands in separated file](./git-commands.md)
+
 <img src="./images/git.png">

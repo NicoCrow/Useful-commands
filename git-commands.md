@@ -1,6 +1,21 @@
 Git Commands
 ============
 
+* [Refactor Filenames](#refactor-filenames)
+* [Suppress Tracking](#suppress-tracking)
+* [Redo Commits](#redo-commits)
+* [Debugging](#debugging)
+* [Configure Tooling](#configure-tooling)
+* [Group Changes](#group-changes)
+* [Review History](#review-history)
+* [Create Repositories](#create-repositories)
+* [Make Changes](#make-changes)
+* [Save Fragments](#save-fragments)
+* [Synchronize Changes](#synchronize-changes)
+
+
+
+
 #### Refactor Filenames
 
 ` git rm [file] ` - Deletes the file from the working directory and stages the deletion
@@ -128,7 +143,4 @@ Git Commands
 ` git revert -n <sha> ` - Revert a commit
 
 
-
-
-
-<img src="./images/git.png">
+[Back to top](#git-commands)
