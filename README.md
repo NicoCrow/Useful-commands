@@ -35,9 +35,4 @@ Useful Commands
 
 ## Git Commands
 
-#### Configure Tooling
-
-` git config --global user.name "[name]" ` - Sets the name you want attached to your commit transactions
-
-` git config --global user.email "[email address]" ` - Sets the email you want attached to your commit transactions
-
+<img src="./images/git.png">
